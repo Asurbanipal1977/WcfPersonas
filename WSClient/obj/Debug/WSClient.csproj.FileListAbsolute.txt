@@ -1,0 +1,11 @@
+D:\000_Cursos\WcfPersonas\WSClient\bin\Debug\WSClient.exe.config
+D:\000_Cursos\WcfPersonas\WSClient\bin\Debug\WSClient.exe
+D:\000_Cursos\WcfPersonas\WSClient\bin\Debug\WSClient.pdb
+D:\000_Cursos\WcfPersonas\WSClient\obj\Debug\WSClient.csproj.AssemblyReference.cache
+D:\000_Cursos\WcfPersonas\WSClient\obj\Debug\WSClient.csproj.SuggestedBindingRedirects.cache
+D:\000_Cursos\WcfPersonas\WSClient\obj\Debug\WSClient.Form1.resources
+D:\000_Cursos\WcfPersonas\WSClient\obj\Debug\WSClient.Properties.Resources.resources
+D:\000_Cursos\WcfPersonas\WSClient\obj\Debug\WSClient.csproj.GenerateResource.cache
+D:\000_Cursos\WcfPersonas\WSClient\obj\Debug\WSClient.csproj.CoreCompileInputs.cache
+D:\000_Cursos\WcfPersonas\WSClient\obj\Debug\WSClient.exe
+D:\000_Cursos\WcfPersonas\WSClient\obj\Debug\WSClient.pdb

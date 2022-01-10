@@ -1,0 +1,7 @@
+D:\000_Cursos\WcfPersonas\WcfPersonas\obj\Debug\WcfPersonas.csproj.AssemblyReference.cache
+D:\000_Cursos\WcfPersonas\WcfPersonas\obj\Debug\WcfPersonas.csproj.CoreCompileInputs.cache
+D:\000_Cursos\WcfPersonas\WcfPersonas\bin\WcfPersonas.dll.config
+D:\000_Cursos\WcfPersonas\WcfPersonas\bin\WcfPersonas.dll
+D:\000_Cursos\WcfPersonas\WcfPersonas\bin\WcfPersonas.pdb
+D:\000_Cursos\WcfPersonas\WcfPersonas\obj\Debug\WcfPersonas.dll
+D:\000_Cursos\WcfPersonas\WcfPersonas\obj\Debug\WcfPersonas.pdb
